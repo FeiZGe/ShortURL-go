@@ -2,7 +2,7 @@ package config
 
 import (
 	"log"
-	"short-url-service/models"
+	"github.com/FeiZGe/ShortURL-go/models"
 
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
